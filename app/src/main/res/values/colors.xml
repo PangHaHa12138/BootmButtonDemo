@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="tab1">#13aae1</color>
+    <color name="tab2">#b7ebf6</color>
+    <color name="changebackground">#98dff5</color>
+
+    <color name="bandround">#0e749c</color>
+    <color name="textcolordd">#68b3ca</color>
+
+    <color name="xian">#87c8dc</color>
+    <color name="white">#ffffff</color>
+    <color name="touming">#00000000</color>
+</resources>
